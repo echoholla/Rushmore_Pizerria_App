@@ -1,0 +1,402 @@
+[
+    {
+        "order_datetime": "2025-06-25-14:33:04",
+        "pizza_type": "Pepperoni",
+        "order_type": "Box",
+        "quantity": 8,
+        "total_price": 28.8,
+        "discount_applied": true
+    },
+    {
+        "order_datetime": "2025-06-25-14:34:32",
+        "pizza_type": "Cheese",
+        "order_type": "Slice",
+        "quantity": 9,
+        "total_price": 5.301,
+        "discount_applied": true
+    },
+    {
+        "order_datetime": "2025-06-25-18:20:43",
+        "pizza_type": "Vegetable",
+        "order_type": "Box",
+        "quantity": 4,
+        "total_price": 16.0,
+        "discount_applied": false
+    },
+    {
+        "order_datetime": "2025-06-25-18:23:44",
+        "pizza_type": "Chicken",
+        "order_type": "Box",
+        "quantity": 1,
+        "total_price": 4.5,
+        "discount_applied": false,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27-14:50:50",
+        "pizza_type": "Vegetable",
+        "order_type": "Box",
+        "quantity": 8,
+        "total_price": 28.8,
+        "discount_applied": true,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27-15:09:20",
+        "pizza_type": "Deluxe",
+        "order_type": "Box",
+        "quantity": 6,
+        "total_price": 32.4,
+        "discount_applied": true,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27-15:10:39",
+        "pizza_type": "Deluxe",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 37.8,
+        "discount_applied": true,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27-16:18:19",
+        "pizza_type": "Chicken",
+        "order_type": "Box",
+        "quantity": 5,
+        "total_price": 20.25,
+        "discount_applied": true,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27-16:19:38",
+        "pizza_type": "Hawaiian",
+        "order_type": "Slice",
+        "quantity": 7,
+        "total_price": 6.16,
+        "discount_applied": false,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27-16:28:42",
+        "pizza_type": "Classic",
+        "order_type": "Box",
+        "quantity": 3,
+        "total_price": 11.7,
+        "discount_applied": false,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27-16:30:29",
+        "pizza_type": "Pepperoni",
+        "order_type": "Slice",
+        "quantity": 6,
+        "total_price": 3.0,
+        "discount_applied": false,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27 17:36:59",
+        "pizza_type": "Classic",
+        "order_type": "Box",
+        "quantity": 6,
+        "total_price": 21.56,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Potato Wedges",
+                "price": 2.0
+            },
+            {
+                "category": "drinks",
+                "name": "Diet Cola",
+                "price": 1.2
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 17:37:44",
+        "pizza_type": "Classic",
+        "order_type": "Slice",
+        "quantity": 6,
+        "total_price": 2.52,
+        "discount_applied": false,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-06-27 17:39:02",
+        "pizza_type": "Deluxe",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 40.8,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Barr",
+                "price": 1.0
+            },
+            {
+                "category": "toppings",
+                "name": "Onions",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 21:31:28",
+        "pizza_type": "Pepperoni",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 28.9,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Diet Cola",
+                "price": 1.2
+            },
+            {
+                "category": "toppings",
+                "name": "Bacon",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 22:06:43",
+        "pizza_type": "Classic",
+        "order_type": "Box",
+        "quantity": 8,
+        "total_price": 27.88,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Water",
+                "price": 0.9
+            },
+            {
+                "category": "toppings",
+                "name": "Bacon",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 22:33:24",
+        "pizza_type": "Chicken",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 31.75,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Water",
+                "price": 0.9
+            },
+            {
+                "category": "toppings",
+                "name": "Bacon",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 22:35:41",
+        "pizza_type": "Deluxe",
+        "order_type": "Slice",
+        "quantity": 5,
+        "total_price": 5.25,
+        "discount_applied": false,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 23:00:15",
+        "pizza_type": "Classic",
+        "order_type": "Slice",
+        "quantity": 4,
+        "total_price": 5.68,
+        "discount_applied": false,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Juice",
+                "price": 1.5
+            },
+            {
+                "category": "toppings",
+                "name": "Bacon",
+                "price": 1.0
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 23:14:43",
+        "pizza_type": "Chicken",
+        "order_type": "Slice",
+        "quantity": 6,
+        "total_price": 8.86,
+        "discount_applied": false,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Barr",
+                "price": 1.0
+            },
+            {
+                "category": "toppings",
+                "name": "Cheese",
+                "price": 0.8
+            },
+            {
+                "category": "dips",
+                "name": "Garlic",
+                "price": 0.5
+            },
+            {
+                "category": "dessert",
+                "name": "Semolina",
+                "price": 1.7
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-06-27 23:23:29",
+        "pizza_type": "Chicken",
+        "order_type": "Box",
+        "quantity": 6,
+        "total_price": 26.8,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "toppings",
+                "name": "Onions",
+                "price": 0.5
+            },
+            {
+                "category": "dips",
+                "name": "BBQ",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-07-02 18:32:43",
+        "pizza_type": "Chicken",
+        "order_type": "Slice",
+        "quantity": 5,
+        "total_price": 2.8000000000000003,
+        "discount_applied": false,
+        "extras": []
+    },
+    {
+        "order_datetime": "2025-07-02 18:34:13",
+        "pizza_type": "Cheese",
+        "order_type": "Box",
+        "quantity": 7,
+        "total_price": 36.3,
+        "discount_applied": true,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Monster",
+                "price": 2.0
+            },
+            {
+                "category": "toppings",
+                "name": "Cheese",
+                "price": 0.8
+            },
+            {
+                "category": "dips",
+                "name": "Herb",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "order_datetime": "2025-07-02 21:43:06",
+        "pizza_type": "Pepperoni",
+        "order_type": "Box",
+        "quantity": 4,
+        "total_price": 19.7,
+        "discount_applied": false,
+        "extras": [
+            {
+                "category": "sides",
+                "name": "Fries",
+                "price": 1.5
+            },
+            {
+                "category": "drinks",
+                "name": "Water",
+                "price": 0.9
+            },
+            {
+                "category": "toppings",
+                "name": "Cheese",
+                "price": 0.8
+            },
+            {
+                "category": "dips",
+                "name": "BBQ",
+                "price": 0.5
+            }
+        ]
+    }
+]
